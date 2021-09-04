@@ -1,0 +1,42 @@
+.btn-pink{
+    
+    color: white;
+    background-image: linear-gradient(#ff4d94, #f51a71);
+}
+.background-light-pink{
+    background-color: #fceae8;
+}
+.hero-section{
+    border-radius: .5em;
+    
+}
+#watch-background{
+    background-color: #ffa500;
+}
+#bag-background{
+    background-color: #da70d6;
+}
+#shoes-background{
+    background-color: #0000ff;
+}
+.category-section img{
+    width: 100px;
+}
+.panda-card{
+    background-color: white;
+    border: 0;
+}
+.panda-footer{
+    background-color: white;
+    border: 0;
+}
+.form-section{
+    height: 300px;
+    border-radius: 0.5em;
+}
+.hero-section, .category-section, .shoes-section, .bags-section, .form-section{
+    margin-bottom: 10%;
+}
+.hero-section{
+    margin-top: 5%;
+}
